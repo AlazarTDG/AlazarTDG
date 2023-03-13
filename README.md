@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Charity Website**
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, Java, PHP, NodeJS**
+- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, Java, PHP**
 
-- 👯 I’m looking to collaborate on **Consultancy agency**
+- 👯 I’m looking to collaborate on **Consultancy agency.**
 
-- 🤝 I’m looking for help with **to raise charity fund**
+- 🤝 I’m looking for help with **to raise charity.**
 
 - 👨‍💻 All of my projects are available at [AlazarTDG](AlazarTDG)
 
