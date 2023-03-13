@@ -1,4 +1,3 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Alazar</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" alt="coding" width="850">
@@ -35,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alazar-demmelash&show_icons=true&locale=en" alt="alazar-demmelash" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alazar-demmelash&" alt="alazar-demmelash" /></p>
+
