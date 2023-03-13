@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Consultancy agency.**
 
-- 🤝 I’m looking for help with **to raise charity.**
+- 🤝 I’m looking for help with **raising charity.**
 
 - 👨‍💻 All of my projects are available at [AlazarTDG](AlazarTDG)
 
