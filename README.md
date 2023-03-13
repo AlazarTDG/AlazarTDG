@@ -33,5 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alazar-demmelash&show_icons=true&locale=en&layout=compact" alt="alazar-demmelash" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alazar-demmelash&show_icons=true&locale=en" alt="alazar-demmelash" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alazar-demmelash&" alt="alazar-demmelash"  width="850"/></p>
 
